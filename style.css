@@ -70,3 +70,9 @@
     background-color:rgb(34, 34, 34);
     border-radius: 20px;
   }
+
+.copyright{
+    margin: 7px;
+    font-weight: bold;
+    text-align: center;
+}
